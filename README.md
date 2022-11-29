@@ -31,3 +31,7 @@ To run pdfMerge, run pdfMerge.py in command prompt.
 `python pdfMerge.py`
 
 then a dialogue box will pop up 
+
+# Bugs
+
+After the dialogue box opens, pressing on any key on your keyboard will close the dialogue window and you will have to restart the program
