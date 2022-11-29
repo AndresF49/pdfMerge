@@ -17,11 +17,11 @@ Using PySimpleGUI we can launch a simple gui to paste in the folder location or 
 
 Make sure you have the latest version of pip and at least Python 3.0
 In your command prompt, type in the following.
->  `python -m pip install --upgrade pip`
->  
->  `pip install PyPDF2`
->  
->  `pip install PySimpleGUI`
+`python -m pip install --upgrade pip`
+
+`pip install PyPDF2`
+
+`pip install PySimpleGUI`
 
 # Run pdfMerge
 
