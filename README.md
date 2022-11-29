@@ -28,7 +28,7 @@ In your command prompt, type in the following.
 
 To run pdfMerge, run pdfMerge.py in command prompt.
 
-`python pdfMerge.py`
+`python mergeAll.py`
 
 then a dialogue box will pop up 
 
