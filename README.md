@@ -1,6 +1,6 @@
 # pdfMerge
 
-A simple GUI built with Python to merge together PDFs in a specific order for the Physics Business Office
+A simple script in Python with a GUI to merge together PDFs in a specific order for the Physics Business Office
 
 mergePDFs takes in the folder path and merges all PDFs in a specific priority for End of Fiscal Year Reports.
 
